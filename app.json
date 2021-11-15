@@ -7,30 +7,30 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Forward-Client",
-    "website": "https://telegram.dog/AbirHasan2005",
+    "repository": "https://github.com/thechosenone07/forwarduserbot.git",
+    "someone": "https://t.me/J_A_R_V_l_S",
     "success_url": "https://t.me/Discovery_Updates",
     "env": {
-        "API_ID": {
+        "API_ID • ": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
-        "API_HASH": {
+        "API_HASH • ": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
-        "STRING_SESSION": {
+        "STRING_SESSION • ": {
             "description": "Get this from @StringSessionGen_Bot"
         },
-        "FORWARD_FROM_CHAT_ID": {
+        "FORWARD_FROM_CHAT_ID • ": {
             "description": "Forward From Chat IDs. Separate with Space."
         },
-        "FORWARD_TO_CHAT_ID": {
+        "FORWARD_TO_CHAT_ID • ": {
             "description": "Forward To Chat IDs. Separate with Space."
         },
         "FORWARD_FILTERS": {
             "description": "Filters can be `text`, `video`, `document`, `gif`, `sticker`, `photo`, `audio`, `poll`, `forwarded`. Separate with Space.",
             "required": false
         },
-        "BLOCKED_EXTENSIONS": {
+        "BLOCKED_EXTENSIONS • ": {
             "description": "Don't Forward those Media Messages which contains Blocked Extensions. Example: `mp4 mkv mp3 zip rar`. Separate with Space.",
             "required": false
         },
@@ -42,10 +42,10 @@
             "description": "Value can be `True`/`False`. If `True` those files which doesn't have file extension will not be Forwarded.",
             "required": false
         },
-        "HEROKU_API_KEY": {
+        "HEROKU_API_KEY • ": {
             "description": "Put Heroku API Key from https://dashboard.heroku.com/account"
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME • ": {
             "description": "Your Heroku App Name."
         },
         "FORWARD_AS_COPY": {
